@@ -1,0 +1,513 @@
+@media (max-width: 1474px) {
+	/* Header */
+	.navbar .navbar-brand{
+		margin-right: -13%;
+	}
+
+	.navbar .middle-item .nav-link {
+		margin-right: 0;
+	}
+	/* /Header */
+}
+
+@media (max-width: 1366px) {
+	/* Product List */
+	.product-list{
+		padding-left: 1%;
+		padding-right: 1%;
+	}
+	/* /Product List */
+}
+
+@media (max-width: 1249.98px) {
+	/* Header */
+	.navbar .navbar-brand{
+		margin-right: -18%;
+	}
+
+	.navbar .navbar-brand img{
+		width: 50%;
+	}
+
+	.navbar .middle-item .nav-link h1 {
+		font-size: 15px;
+	}
+
+	.navbar .nav-icon-bg{
+		width: 38px;
+		height: 38px;
+		margin-right: 6px;
+	}
+
+	.navbar .nav-icon-bg i{
+		line-height: 24px;
+	}
+
+	.navbar .nav-lang .nav-link img{
+		width: 38px;
+		height: 38px;
+	}
+	/* /Header */
+
+	/* Footer */
+	footer .footer-col:first-child{
+		padding-right: 50px;
+	}
+
+	footer .footer-col:nth-of-type(3){
+		padding-left: 40px;
+	}
+	/* /Footer */
+}
+
+@media (max-width: 1199.98px) {
+	/* Slider */
+	.slider .carousel .carousel-item .slider-title{
+		width: 100%;
+		margin-left: 0%;
+	}
+	/* /Slider */
+
+	/* News */
+	.news .row{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	/* /News */
+
+	/* Bulten */
+	.bulten .bulten-left,
+	.bulten .bulten-right{
+		padding: 50px;
+	}
+	/* /Bulten */
+
+	/* Footer */
+	footer .footer-col:first-child{
+		padding-right: 80px;
+	}
+
+	footer .footer-link li{
+		display: inline-block;
+		width: 49%;
+	}
+
+	footer .footer-col:nth-of-type(4){
+		text-align: left;
+		margin-top: 40px;
+	}
+
+	footer .footer-col:last-child{
+		margin-top: 40px;
+	}
+
+	footer .footer-col:last-child img{
+		width: 25%;
+	}
+
+	footer .zap-tasarim{
+		display: none;
+	}
+
+	footer .zap-tasarim-m{
+		display: block;
+	}
+	/* /Footer */
+}
+
+@media (max-width: 1050px) {
+	/* Header */
+	.navbar .navbar-brand {
+	    margin-right: -15%;
+	    width: 30%;
+	}
+	/* /Header */
+}
+
+@media (max-width: 1024px) {
+	/* News */
+	.news .news-col .news-title{
+		font-size: 19px;
+	}
+
+	.news .news-col .news-content{
+		font-size: 17px;
+	}
+	/* /News */
+
+	/* Footer */
+	footer .footer-link li{
+		display: block;
+		width: 100%;
+	}
+
+	footer .footer-col:nth-of-type(2){
+		text-align: center;
+	}
+
+	footer .footer-col:nth-of-type(3){
+		padding-left: 0;
+		text-align: right;
+	}
+	/* /Footer */
+}
+
+@media (max-width: 991.98px) {
+	/* Header */
+	.navbar .navbar-brand{
+		margin-right: 0;
+	}
+
+	.navbar .nav-icon-bg{
+		width: 100%;
+		border-radius: 0;
+	}
+
+	.navbar .nav-lang .nav-link img{
+		width: 23px;
+		height: 23px;
+		margin-top: 10px;
+	}
+
+	.navbar .header-eye-m{
+		display: block;
+		top: 32px;
+	}
+
+	.navbar .header-eye{
+		display: none;
+	}
+
+	#sidebarCollapse{
+		display: block;
+	}
+	/* Header */
+
+	/* Slider */
+	.slider .carousel .carousel-item img {
+		height: 600px;
+	}
+	/* /Slider */
+
+	/* Shortcut Key */
+	.shortcut-key{
+		display: none;
+	}
+
+	.shortcut-key .key-container:nth-child(7n+0){
+		padding-left: 8px;
+	}
+
+	.shortcut-key .key-container:nth-child(6n+0){
+		padding-right: 8px;
+	}
+
+	.shortcut-key .key-container:nth-child(3n+1){
+		padding-left: 0;
+	}
+
+	.shortcut-key .key-container:nth-child(3n+0){
+		padding-right: 0;
+	}
+	/* /Shortcut Key */
+
+	/* Category */
+	.category{
+		margin-top: 30px;
+	}
+	/* /Category */
+
+	/* Counter */
+	.counter .counter-item{
+		padding-left: 12.5%;
+	}
+	/* /Counter */
+
+	/* Product Detail */
+	.product-detail .product-slide .carousel .carousel-item img {
+		height: 400px;
+	}
+	/* /Product Detail */
+
+	/* Product Detail Download */
+	.product-detail .download .back-category{
+		text-align: center;
+	}
+	/* /Product Detail Download */
+}
+
+@media (max-width: 850px) {
+	/* Bulten */
+	.bulten .bulten-left,
+	.bulten .bulten-right{
+		padding: 50px 18px 50px 18px;
+	}
+
+	.bulten .bulten-content{
+		height: 130px;
+	}
+	/* /Bulten */
+}
+
+@media (max-width: 767.9px) {
+	/* Slider */
+	.slider .carousel .carousel-item img {
+		height: 500px;
+	}
+	/* /Slider */
+
+	/* Shortcut Key */
+	.shortcut-key .key-container:nth-child(3n+1){
+		padding-left: 4px;
+	}
+
+	.shortcut-key .key-container:nth-child(3n+0){
+		padding-right: 4px;
+	}
+
+	.shortcut-key .key-container:nth-child(2n+1){
+		padding-left: 0;
+	}
+
+	.shortcut-key .key-container:nth-child(2n+0){
+		padding-right: 0;
+	}
+	/* /Shortcut Key */
+
+	/* Category */
+	.category .category-item{
+		margin-bottom: 10px;
+	}
+	.category .category-col{
+		padding: 0;
+		margin-bottom: 10px;
+	}
+	/* /Category */
+
+	/* News */
+	.news .news-col:first-child{
+		margin-bottom: 45px;
+	}
+	/* /News */
+
+	/* Bulten */
+	.bulten .bulten-left .bulten-content{
+		text-align: center;
+	}
+	.bulten form{
+		margin-top: 50px;
+	}
+	/* /Bulten */
+
+	/* Footer */
+	footer .footer-col:first-child{
+		padding-right: 15px;
+	}
+
+	footer .footer-link li{
+		display: inline-block;
+		width: 49%;
+	}
+
+	footer .footer-col:nth-of-type(2){
+		text-align: left;
+		margin-top: 40px;
+	}
+
+	footer .footer-col:nth-of-type(3){
+		text-align: right;
+		margin-top: 40px;
+	}
+
+	footer .footer-col:nth-of-type(4){
+		text-align: left;
+		margin-top: 40px;
+	}
+
+	footer .footer-col:last-child{
+		margin-top: 40px;
+	}
+
+	footer .footer-brand img{
+		width: 30%;
+	}
+
+	footer .zap-tasarim{
+		display: none;
+	}
+
+	footer .zap-tasarim-m{
+		display: block;
+	}
+	/* /Footer */
+
+	/* Page Navigation */
+	.page-navigation .navigation-item:first-child{
+		display: none;
+	}
+	.page-navigation .navigation-item:last-child{
+		text-align: center !important;
+	}
+	/* /Page Navigation */
+
+	/* Corporate
+	.corporate .corporate-item div:nth-of-type(2){
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.corporate .corporate-item img{
+		width: 100%;
+		height: 300px;
+		object-fit: cover;
+		object-position: center;
+	}
+	/Corporate */
+
+	/* Counter */
+	.counter .counter-item{
+		padding-left: 19.1%;
+	}
+	/* /Counter */
+	.timeline .timeline-list .timeline-item-space{
+		display: none;
+	}
+	/* Timeline */
+	.timeline .timeline-date{
+		display: none;
+	}
+	/* /Timeline */
+}
+
+@media (max-width: 576px) {
+	/* Header */
+	.navbar .header-eye-m{
+		top: 32px;
+	}
+	/* Header */
+
+	/* Slider */
+	.slider .carousel .carousel-item img {
+		height: 400px;
+	}
+	/* /Slider */
+
+	/* Shortcut Key */
+	.shortcut-key .key-container{
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.shortcut-key .key-container:nth-child(3n+1){
+		padding-left: 0;
+	}
+
+	.shortcut-key .key-container:nth-child(3n+0){
+		padding-right: 0;
+	}
+
+	.shortcut-key .key-container:nth-child(2n+1){
+		padding-left: 0;
+	}
+
+	.shortcut-key .key-container:nth-child(2n+0){
+		padding-right: 0;
+	}
+	/* /Shortcut Key */
+
+	/* Footer */
+	footer .footer-col:nth-of-type(3){
+		text-align: left;
+		padding-left: 15px;
+	}
+
+	footer .footer-col:nth-of-type(4){
+		text-align: left;
+		margin-top: 40px;
+	}
+
+	footer .footer-col:last-child{
+		margin-top: 40px;
+	}
+
+	footer .footer-col:last-child img{
+		float: left;
+	}
+
+	footer .zap-tasarim{
+		display: block;
+		position: static;
+	}
+
+	footer .zap-tasarim-m{
+		display: none;
+	}
+	/* /Footer */
+
+	/* Counter */
+	.counter .counter-item{
+		padding-left: 16.5%;
+	}
+	/* /Counter */
+
+	/* Product List */
+	.product-list .product-list-col{
+		display: none;
+	}
+	.product-list .product-card-col .card-img-top{
+		height: 40vh;
+		object-fit: contain;
+	}
+	.project-list .product-card-col .card-img-top{
+		height: 40vh;
+		object-fit: cover;
+	}
+	/* /Product List */
+
+	/* Product Detail */
+	.product-detail .product-slide .carousel .carousel-item img {
+		height: 300px;
+	}
+	/* /Product Detail */
+
+	/* Product Detail Download */
+	.product-detail .download .download-area .download-item{
+		display: block;
+	}
+	/* /Product Detail Download */
+
+	/* Project Detail */
+	.project-detail .project-attach a {
+	    display: block;
+	}
+	.project-detail .project-attach .attachment {
+	    margin-right: 0;
+	    margin-bottom: 8px;
+	}
+	/* /Project Detail */
+}
+
+@media (max-width: 320px){
+	/* Page Navigation */
+	.page-navigation .navigation-item{
+		flex:0 0 100%;
+		-ms-flex:0 0 100%;
+		max-width:100%
+	}
+	/* /Page Navigation */
+}
+
+/* Extra small devices (portrait phones, less than 576px) 
+@media (max-width: 575.98px) {}*/
+
+/* Small devices (landscape phones, 576px and up) 
+@media (min-width: 576px) and (max-width: 767.98px) {}*/
+
+/* Medium devices (tablets, 768px and up) 
+@media (min-width: 768px) and (max-width: 991.98px) {}*/
+
+/* Large devices (desktops, 992px and up) 
+@media (min-width: 992px) and (max-width: 1199.98px) {}*/
+
+/* Extra large devices (large desktops, 1200px and up) 
+@media (min-width: 1200px) {}*/
